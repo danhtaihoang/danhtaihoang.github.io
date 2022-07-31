@@ -1,4 +1,4 @@
-# Hamilton <!-- omit in toc -->
+# Danh-Tai Hoang, PhD <!-- omit in toc -->
 
 A minimal and beautiful Jekyll theme best for writing and note-taking.
 
