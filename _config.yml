@@ -1,11 +1,11 @@
 # Setup
-title: Dr. Hoang's personal website
+title: Danh-Tai Hoang, PhD.
 description: Biomedical Data Scientist
 url: https://danhtaihoang.github.io
 avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
