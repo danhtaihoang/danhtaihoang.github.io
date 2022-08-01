@@ -7,25 +7,23 @@ title: Publications
 
 #### ISI Articles
 
-[21: Junghyo Jo, Danh-Tai Hoang, and Vipul Periwal, 
-Erasure machine: Inverse Ising inference from reweighting of observation frequencies,
-Physical Review E, 101, 032107 (2020).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032107)
 
-20: Danh-Tai Hoang, Joseph McKenna, Chris Yang, and Vipul Periwal, 
-Expectation Reflection for inferring Network of Residue Interactions from Protein Sequence Alignments, 
-(in preparation), (2019).
+20: Junghyo Jo, <u>Danh-Tai Hoang</u>, and Vipul Periwal,
+[Erasure machine: Inverse Ising inference from reweighting of observation frequencies,]
+Physical Review E, 101, 032107 (2020).(https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032107)
 
-[19: Danh-Tai Hoang, Junghyo Jo, and Vipul Periwal,
-Data-driven inference of hidden nodes in networks,
-Physical Review E, 99, 042114 (2019) (Editors' Suggestion).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042114)
 
-18: Danh-Tai Hoang, Juyong Song, Vipul Periwal,  and Junghyo Jo,
-Network inference in stochastic systems from neurons to currencies: Improved performance at small sample size, 
-Physical Review E, 99, 023311 (2019).
+19: Danh-Tai Hoang, Junghyo Jo, and Vipul Periwal,
+[Data-driven inference of hidden nodes in networks],
+Physical Review E, 99, 042114 (2019) (Editors' Suggestion).(https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042114)
+
+18: <span style="color:blue">Danh-Tai Hoang</span>, Juyong Song, Vipul Periwal,  and Junghyo Jo,
+[Network inference in stochastic systems from neurons to currencies: Improved performance at small sample size], 
+Physical Review E, 99, 023311 (2019).(https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.023311)
 
 17: Dong-Ho Park, Taegeun Song, Danh-Tai Hoang, Jin Xu, and Junghyo Jo,
-A Local Counter-Regulatory Motif Modulates the Global Phase of Hormonal Oscillations, 
-Nature-Scientific Reports, 7, 1602 (2017).
+[A Local Counter-Regulatory Motif Modulates the Global Phase of Hormonal Oscillations], 
+Nature-Scientific Reports, 7, 1602 (2017).(https://www.nature.com/articles/s41598-017-01806-0)
 
 16: Marissa Pastor, Juyong Song, Danh-Tai Hoang, Junghyo Jo,
 Minimal perceptrons for memorizing complex patterns,
