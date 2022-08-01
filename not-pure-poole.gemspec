@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "not-pure-poole"
   spec.version       = "0.1.0"
   spec.authors       = ["Danh-Tai Hoang"]
-  spec.email         = ["taihoang.au@gmail.com", "taihoang.au@gmail.com"]
+  spec.email         = ["taihoang.au[(at)]gmail.com"]
 
   spec.summary       = "Dr. Danh-Tai Hoang's personal website."
   spec.homepage      = "https://github.com/danhtaihoang"
