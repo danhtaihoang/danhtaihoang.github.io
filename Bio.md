@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /
-title: Biography
+url: /
+title: Bio
 ---
 
 This is biography page.
