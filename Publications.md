@@ -9,7 +9,7 @@ title: Publications
 
 [21: Junghyo Jo, Danh-Tai Hoang, and Vipul Periwal, 
 Erasure machine: Inverse Ising inference from reweighting of observation frequencies,
-Physical Review E, 101, 032107 (2020).] (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032107)
+Physical Review E, 101, 032107 (2020).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032107)
 
 20: Danh-Tai Hoang, Joseph McKenna, Chris Yang, and Vipul Periwal, 
 Expectation Reflection for inferring Network of Residue Interactions from Protein Sequence Alignments, 
@@ -17,7 +17,7 @@ Expectation Reflection for inferring Network of Residue Interactions from Protei
 
 [19: Danh-Tai Hoang, Junghyo Jo, and Vipul Periwal,
 Data-driven inference of hidden nodes in networks,
-Physical Review E, 99, 042114 (2019) (Editors' Suggestion).] (https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042114)
+Physical Review E, 99, 042114 (2019) (Editors' Suggestion).](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.042114)
 
 18: Danh-Tai Hoang, Juyong Song, Vipul Periwal,  and Junghyo Jo,
 Network inference in stochastic systems from neurons to currencies: Improved performance at small sample size, 
