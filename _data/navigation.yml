@@ -1,4 +1,11 @@
-- title: Blog
+- title: About me
   url: /
-- title: About
-  url: /about/
+
+- title: Publications
+  url: /Publications/
+
+- title: Talks
+  url: /Talks/
+
+- title: Books
+  url: /Books/
