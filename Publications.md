@@ -9,7 +9,7 @@ title: Publications
 
 
 20: Junghyo Jo, <span style="color:green">Danh-Tai Hoang</span>, and Vipul Periwal,
-[Erasure machine: Inverse Ising inference from reweighting of observation frequencies,](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032107)
+[Erasure machine: Inverse Ising inference from reweighting of observation frequencies](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032107),
 Physical Review E, 101, 032107 (2020).
 
 19: <span style="color:green">Danh-Tai Hoang</span>, Junghyo Jo, and Vipul Periwal,
@@ -45,56 +45,56 @@ Physical Review E, 91, 032135 (2015).
 PLoS ONE, 9, 10, e110384 (2014).
 
 11: Juyong Song, <span style="color:green">Danh-Tai Hoang</span>, Jongwook Kim, and Junghyo Jo,
-Population balancing with species switching,
+[Population balancing with species switching](https://link.springer.com/article/10.3938/jkps.65.111),
 J. Korean Phys. Soc., 61, 1, 111-116  (2014).
 
 10: <span style="color:green">Danh-Tai Hoang</span> and H. T. Diep,
-Phase transition in dimer liquids,
+[Phase transition in dimer liquids](https://iopscience.iop.org/article/10.1088/0953-8984/26/3/035103),
 J. Phys.: Condens. Matter., 26, 035103 (2014).
 
 9: H. T. Diep, Virgile Bocchetti, <span style="color:green">Danh-Tai Hoang</span>, and V. T. Ngo,
-Theory and simulation of magnetic material: Physics at phase frontiers,
+[Theory and simulation of magnetic material: Physics at phase frontiers](https://iopscience.iop.org/article/10.1088/1742-6596/537/1/012001),
 J. Phys.: Conference Series, 537, 01200 (2014).
 
 8: <span style="color:green">Danh-Tai Hoang</span>, Juyong Song, and Junghyo Jo,
-Partial mixing phase of binary cells in finite systems,
+[Partial mixing phase of binary cells in finite systems](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.062725),
 Physical Review E. 88, 062725 (2013).
 
 7: Maciej Kasperski, Henryk Puszkarsi, <span style="color:green">Danh-Tai Hoang</span>, and H. T. Diep,
-Magnetic properties of two-dimensional nanodots: Ground state and phase transition,
+[Magnetic properties of two-dimensional nanodots: Ground state and phase transition](https://aip.scitation.org/doi/10.1063/1.4858416),
 AIP Advances, 3, 122121 (2013).
 
 6: <span style="color:green">Danh-Tai Hoang</span>, Maciej Kasperski, Henryk Puszkarsi, and H. T. Diep,
-Re-orientation transition in molecular thin films: Potts model with dipolar interaction,
+[Re-orientation transition in molecular thin films: Potts model with dipolar interaction](https://iopscience.iop.org/article/10.1088/0953-8984/25/5/056006),
 J. Phys.: Condens. Matter., 25, 056006 (2013).
 
 5: <span style="color:green">Danh-Tai Hoang</span> and H. T. Diep,
-Effect of dipolar interaction in molecular crystals,
+[Effect of dipolar interaction in molecular crystals](https://iopscience.iop.org/article/10.1088/0953-8984/24/41/415402/pdf),
 J. Phys.: Condens. Matter., 24, 415402 (2012).
 
 4: <span style="color:green">Danh-Tai Hoang</span> and H. T. Diep,
-Hexagonal-close-packed lattice: Ground state and phase transition, 
+[Hexagonal-close-packed lattice: Ground state and phase transition](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.85.041107), 
 Physical Review E, 85, 041107 (2012).
 
 3: H. T. Diep, Yann Magnin and <span style="color:green">Danh-Tai Hoang</span>,
-Spin resistivity in magnetic materials,
+[Spin resistivity in magnetic materials](http://przyrbwn.icm.edu.pl/APP/ABSTR/121/a121-5-3.html),
 Acta. Phys. Pol. A, 121, 985-991 (2012).
 
 2: <span style="color:green">Danh-Tai Hoang</span>, Yann Magnin and H. T. Diep, 
-Spin resistivity in the frustrated J1-J2 model,
+[Spin resistivity in the frustrated J1-J2 model](https://www.worldscientific.com/doi/10.1142/S0217984911026644),
 Mod. Phys. Lett. B, 25, 937-945 (2011).
 
 1: Yann Magnin, <span style="color:green">Danh-Tai Hoang</span> and H. T. Diep,
-Spin transport in magnetically ordered systems: Effect of the lattice relaxation time, 
+[Spin transport in magnetically ordered systems: Effect of the lattice relaxation time](https://www.worldscientific.com/doi/10.1142/S0217984911026759), 
 Mod. Phys. Lett. B, 25, 1029-1040 (2011).
 
 #### Non-ISI Articles
 6: <span style="color:green">Hoang Danh Tai</span>, 
-Artificial Pancreas - a New Solution for Diabetic Patients, 
+[Artificial Pancreas - a New Solution for Diabetic Patients](https://vjol.info.vn/index.php/TDHQB/article/view/20882), 
 Journal of Science and Technology – Quang Binh University, T4, S1, 25-33 (2015). (In Vietnamese).
 
 5: <span style="color:green">Hoang Danh Tai</span>, 
-Monte Carlo simulation for the study of phase transitions in magnetic nano-materials,
+[Monte Carlo simulation for the study of phase transitions in magnetic nano-materials](https://vjol.info.vn/index.php/TDHQB/article/view/56728),
 Journal of Science and Technology – Quang Binh University, 1, 46-53 (2012). (In Vietnamese).
 
 4: <span style="color:green">Hoang Danh Tai</span>,
@@ -106,11 +106,11 @@ Utilization of oscilloscope in teaching sound wave topic,
 Special Issue of Vietnam Education Journal, pages 72 – 74 (2006). (In Vietnamese).
 
 2: Pham Thi Phu, <span style="color:green">Hoang Danh Tai</span>,
-Application of oscilloscopes in teaching of physics at high school,
+Application of oscilloscope in teaching of physics at high school,
 Journal ofScience, Vinh University, 35 (2A), 69-77 (2005). (In Vietnamese).  
 
 1: <span style="color:green">Hoang Danh Tai</span>,
-Digital oscilloscope application combining with experiment and model in teaching of “Electric oscillation, alternating current”,
+Combination of digital oscilloscope, experiment, and modelling in teaching of “Electric oscillation, alternating current”,
 Vietnamese Student Competition on Science Research (2004). (In Vietnamese).
 
 
