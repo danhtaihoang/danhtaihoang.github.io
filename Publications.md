@@ -3,6 +3,7 @@ layout: page
 title: Publications
 ---
 
+
 #### ISI Articles
 
 **23:** <span style="color:green">Danh-Tai Hoang</span>, Gal Dinstag, Leandro C. Hermida, Doreen S. Ben-Zvi, Efrat Elis, Katherine Caley, Sanju Sinha, Neelam Sinha, Christopher H. Dampier, Tuvik Beker, Kenneth Aldape, Ranit Aharonov, Eric A. Stone, Eytan Ruppin, 
@@ -147,4 +148,3 @@ Journal ofScience, Vinh University, 35 (2A), 69-77 (2005). (In Vietnamese).
 **1:** <span style="color:green">Hoang Danh Tai</span>,
 Combination of digital oscilloscope, experiment, and modelling in teaching of “Electric oscillation, alternating current”,
 Vietnamese Student Competition on Science Research (2004). (In Vietnamese).
-
