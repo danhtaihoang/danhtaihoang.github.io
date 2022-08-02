@@ -13,5 +13,6 @@ title: Welcome to Dr. Danh-Tai Hoang's personal website!
 BioRxiv (2022).
 
 
-
+## News
+1. [Our recent work on DeepPT has been summarized in plain language](https://www.webwire.com/ViewPressRel.asp?aId=290352&fbclid=IwAR2mI35gXwy0fR1nzIGBPV1NJeuUiuT2yCNbPChyfxAXXUkEw9kd7TVO4xY).
 
