@@ -12,7 +12,7 @@ My books for teachers and students at high & middle schools:
 “Physics 12th Grade: Classification and Methods, vol. 3 (Wave Optics, Nuclear Physics, and Modern Physics)”, 
 Vietnam National University Press, Hanoi, Vietnam, 2012. (304 pages, in Vietnamese).
 <span style="color:blue">Hoàng Danh Tài, Vật lí 12: Các dạng bài tập và Phương pháp giải: Sóng ánh sáng, Lượng tử ánh sáng, Từ vi mô đến vĩ mô, Sơ lược về Thuyết tương đối hẹp, Hạt nhân nguyên tử, 304 trang, NXB Đại học Quốc gia Hà Nội, 2012.</span>
-![book19](/book_images/19.jpg "Vat li 12: Cac dang bai tap va PP giai, tap 3") {align=center}
+![book19](/book_images/19.jpg "Vat li 12: Cac dang bai tap va PP giai, tap 3"){align=center}
 
 18: <span style="color:green">Hoang Danh Tai</span>,
 “Physics 12th Grade: Classification and Methods, vol. 2 (Mechanic Waves, Electromagnetic Waves, Electromagnetic Oscillations and Alternating Current)”,
