@@ -9,9 +9,7 @@ title: Welcome to Dr. Danh-Tai Hoang's personal website!
 
 
 1. <span style="color:green">Danh-Tai Hoang</span>, Gal Dinstag, Leandro C. Hermida, Doreen S. Ben-Zvi, Efrat Elis, Katherine Caley, Sanju Sinha, Neelam Sinha, Christopher H. Dampier, Tuvik Beker, Kenneth Aldape, Ranit Aharonov, Eric A. Stone, Eytan Ruppin, 
-
 [Synthetic lethality-based prediction of cancer treatment response from histopathology images](https://www.biorxiv.org/content/10.1101/2022.06.07.495219v1.full),
-
 BioRxiv (2022).
 
 
