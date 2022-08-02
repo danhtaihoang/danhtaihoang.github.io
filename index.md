@@ -4,7 +4,7 @@ title: Welcome to Dr. Danh-Tai Hoang's personal website!
 ---
 
 
-![deeppt](/images/deeppt_100px.png "Deep PT")
+![deeppt](/images/deeppt100px.png "Deep PT")
 
 ## Selected Publications
 
