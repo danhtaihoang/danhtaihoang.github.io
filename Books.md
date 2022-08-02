@@ -3,8 +3,6 @@ layout: page
 title: Books
 ---
 
-List of books
-
 My books for teachers and students at high & middle schools:
 (These books were written in Vietnamese)
 
