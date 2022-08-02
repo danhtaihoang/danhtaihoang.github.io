@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Talks
+title: List of presentations/talks
 ---
-
-## List of presentations/talks:
 
 **19:** <span style="color:green">Classification using Expectation Reflection</span>, 
 13th Annual q-bio Conference, July 31 - August 3, 2019, San Francisco State University, San Francisco, CA, USA.
