@@ -1,6 +1,6 @@
 ---
 layout: page
-title: List of presentations/talks
+title: Talks
 ---
 
 **19:** <span style="color:green">Classification using Expectation Reflection</span>, 
