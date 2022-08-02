@@ -1,7 +1,7 @@
-- title: Home
-  url: /home
+- title: Bio
+  url: /bio
 
-- title: Publications
+- title: publications
   url: /publications/
 
 - title: Talks
