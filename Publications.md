@@ -7,6 +7,16 @@ title: Publications
 
 #### ISI Articles
 
+23: <span style="color:green">Danh-Tai Hoang</span>, Gal Dinstag, Leandro C. Hermida, Doreen S. Ben-Zvi, Efrat Elis, Katherine Caley, Sanju Sinha, Neelam Sinha, Christopher H. Dampier, Tuvik Beker, Kenneth Aldape, Ranit Aharonov, Eric A. Stone, Eytan Ruppin, 
+[Synthetic lethality-based prediction of cancer treatment response from histopathology images](https://www.biorxiv.org/content/10.1101/2022.06.07.495219v1.full),
+BioRxiv (2022).
+
+22: Gal Dinstag, Eldad D Shulman, Efrat Elis, Doreen S Ben-Zvi, Omer Tirosh, Eden Maimon, Isaac Meilijson, Emmanuel Elalouf, Eyal Schiff, <span style="color:green">Danh-Tai Hoang</span>, Sanju Sinha, Nishanth Ulhas Nair, Joo Sang Lee, Alejandro A Schäffer, Ze’ev Ronai, Dejan Juric, Andrea B Apolo, William L Dahut, Stanley Lipkowitz, Raanan Berger, Razelle Kurzrock, Antonios Papanicolau-Sengos, Fatima Karzai, Mark R Gilbert, Kenneth Aldape, Padma S Rajagopal, Tuvik Beker, Eytan Ruppin, Ranit Aharonov,
+[Clinically oriented prediction of patient response to targeted and immunotherapies from the tumor transcriptome](https://www.biorxiv.org/content/10.1101/2022.02.27.481627v1.full), BioRxiv (2022).
+
+21: Evan Cresswell-Clay, <span style="color:green">Danh-Tai Hoang</span>, Joe McKenna, Chris Yang, Eric Zhang, Vipul Periwal,
+[Protein Structure Prediction with Expectation Reflection](https://www.biorxiv.org/content/10.1101/2022.07.12.499755v1.full),
+BioRxiv (2022).
 
 20: Junghyo Jo, <span style="color:green">Danh-Tai Hoang</span>, and Vipul Periwal,
 [Erasure machine: Inverse Ising inference from reweighting of observation frequencies](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032107),
