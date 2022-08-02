@@ -1,8 +1,11 @@
-- title: Bio
-  url: /bio
+- title: Biography
+  url: /biography/
 
 - title: Publications
   url: /publications/
+
+- title: Talk
+  url: /talk/
 
 - title: Talks
   url: /talks/
