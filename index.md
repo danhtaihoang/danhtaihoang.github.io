@@ -3,8 +3,6 @@ layout: page
 title: Welcome to Danh-Tai Hoang's personal website!!
 ---
 
-## Welcome to Danh-Tai Hoang's personal website!!
-
 ## Biography
 This is biography
 
@@ -17,3 +15,4 @@ List of talks
 ## Books
 
 List of books
+
