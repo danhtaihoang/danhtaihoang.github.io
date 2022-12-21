@@ -7,8 +7,8 @@ title: Publications
 #### ISI Articles
 
 
-**23:** <span style="color:green">Danh-Tai Hoang</span>, Gal Dinstag, Leandro C. Hermida, Doreen S. Ben-Zvi, Efrat Elis, Katherine Caley, Sanju Sinha, Neelam Sinha, Christopher H. Dampier, Tuvik Beker, Kenneth Aldape, Ranit Aharonov, Eric A. Stone, Eytan Ruppin, 
-[Synthetic lethality-based prediction of cancer treatment response from histopathology images](https://www.biorxiv.org/content/10.1101/2022.06.07.495219v1.full),
+**23:** <span style="color:green">Danh-Tai Hoang</span>, Gal Dinstag, Leandro C. Hermida, Doreen S. Ben-Zvi, Efrat Elis, Katherine Caley, Stephen-John Sammut, Sanju Sinha, Neelam Sinha, Christopher H. Dampier, Chani Stossel, Tejas Patil, Arun Rajan, Wiem Lassoued, Julius Strauss, Shania Bailey, Clint Allen, Jason Redman, Tuvik Beker, Peng Jiang, Talia Golan, Scott Wilkinson, Adam G. Sowalsky, Sharon R. Pine, Carlos Caldas, James L. Gulley, Kenneth Aldape, Ranit Aharonov, Eric A. Stone, Eytan Ruppin,
+[Prediction of cancer treatment response from histopathology images through imputed transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.07.495219v2.full),
 BioRxiv (2022).
 
 
