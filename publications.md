@@ -13,7 +13,7 @@ BioRxiv (2022).
 
 
 **22:** Gal Dinstag, Eldad D Shulman, Efrat Elis, Doreen S Ben-Zvi, Omer Tirosh, Eden Maimon, Isaac Meilijson, Emmanuel Elalouf, Eyal Schiff, <span style="color:green">Danh-Tai Hoang</span>, Sanju Sinha, Nishanth Ulhas Nair, Joo Sang Lee, Alejandro A Schäffer, Ze’ev Ronai, Dejan Juric, Andrea B Apolo, William L Dahut, Stanley Lipkowitz, Raanan Berger, Razelle Kurzrock, Antonios Papanicolau-Sengos, Fatima Karzai, Mark R Gilbert, Kenneth Aldape, Padma S Rajagopal, Tuvik Beker, Eytan Ruppin, Ranit Aharonov,
-[Clinically oriented prediction of patient response to targeted and immunotherapies from the tumor transcriptome](https://www.biorxiv.org/content/10.1101/2022.02.27.481627v1.full), BioRxiv (2022).
+[Clinically oriented prediction of patient response to targeted and immunotherapies from the tumor transcriptome](https://www.sciencedirect.com/science/article/pii/S266663402200455X), CellPress Med, 4, 1-16, (2023).
 
 
 **21:** Evan Cresswell-Clay, <span style="color:green">Danh-Tai Hoang</span>, Joe McKenna, Chris Yang, Eric Zhang, Vipul Periwal,
