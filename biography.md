@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Dr. Danh-Tai Hoang is a Staff Scientist at the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory), [National Cancer Institute (NCI)](https://www.cancer.gov/), National Institutes of Health (NIH, USA)](https://www.nih.gov/). 
+Dr. Danh-Tai Hoang is a Staff Scientist at the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory), [National Cancer Institute (NCI)](https://www.cancer.gov/), [National Institutes of Health (NIH, USA)](https://www.nih.gov/). 
 
 His research focuses on developing machine learning and artificial intelligence frameworks for personalized cancer medicine. Specifically, he integrates big data resources across multiple modalities, including histopathology images, molecular profiling (such as bulk/spatial transcriptomics, DNA methylation, proteomics) and clinical data to predict cancer biomarkers, cancer subtypes, patient survival, and treatment responses.
 
