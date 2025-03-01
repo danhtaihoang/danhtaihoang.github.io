@@ -6,10 +6,29 @@ title: Publications
 
 #### ISI Articles
 
+**27:** <span style="color:green">Danh-Tai Hoang</span>, Eldad D. Shulman, Saugato Rahman Dhruba, Nishanth Ulhas Nair, Ranjan K. Barman, H. Lalchungnunga, Omkar Singh, MacLean P. Nasrallah, Eric A. Stone, Kenneth Aldape, Eytan Ruppin.
+[Path2Omics: Enhanced transcriptomic and methylation prediction accuracy from tumor histopathology](https://www.biorxiv.org/content/10.1101/2025.02.26.640189v1),
+BioRxiv (2025).
 
-**23:** <span style="color:green">Danh-Tai Hoang</span>, Gal Dinstag, Leandro C. Hermida, Doreen S. Ben-Zvi, Efrat Elis, Katherine Caley, Stephen-John Sammut, Sanju Sinha, Neelam Sinha, Christopher H. Dampier, Chani Stossel, Tejas Patil, Arun Rajan, Wiem Lassoued, Julius Strauss, Shania Bailey, Clint Allen, Jason Redman, Tuvik Beker, Peng Jiang, Talia Golan, Scott Wilkinson, Adam G. Sowalsky, Sharon R. Pine, Carlos Caldas, James L. Gulley, Kenneth Aldape, Ranit Aharonov, Eric A. Stone, Eytan Ruppin,
-[Prediction of cancer treatment response from histopathology images through imputed transcriptomics](https://www.biorxiv.org/content/10.1101/2022.06.07.495219v2.full),
-BioRxiv (2022).
+
+**26:** Eldad D. Shulman, Emma M. Campagnolo, Roshan Lodha, Amos Stemmer, Thomas Cantore, Beibei Ru, Tian-Gen Chang, Sumona Biswas, Dhruba S. Rahman, Andrew Wang, Rohit Paul, Sarath Kalisetty, Tom Hu, Maclean Nasrallah, Sheila Rajagopal, Stephen-John Sammut, Stanley Lipkowitz, Peng Jiang, Carlos Caldas, Simon Knott, <span style="color:green">Danh-Tai Hoang</span>, Kenneth Aldape, Eytan Ruppin. 
+[AI-Driven Spatial Transcriptomics Unlocks Large-Scale Breast Cancer Biomarker Discovery from Histopathology](https://www.biorxiv.org/content/10.1101/2024.10.16.618609v1)
+BioRxiv (2025).
+
+
+**25:**  Mudra Choudhury, Lihe Liu, Anamika Yadav, Owen Chapman, Zahra Ahmadi, Raneen Younis, Chinmay Sharma, Navansh Goel, Sunita Sridhar, Rishaan Kenkre, Aditi Dutta, Shanqing Wang, Eldad Shulman, Saugato Rahman Dhruba, <span style="color:green">Danh-Tai Hoang</span>, Kevin Tharp, Megan Paul, Denise Malicki, Kevin Yip, Eytan Ruppin, Lukas Chavez, Sanju Sinha. 
+[ecPath detects ecDNA in tumors from histopathology images](https://www.biorxiv.org/content/10.1101/2024.11.13.623494v1),
+BioRxiv (2024).
+
+
+**24:** <span style="color:green">Danh-Tai Hoang</span>, Eldad D. Shulman, Saugato Rahman Dhruba, Nishanth Ulhas Nair, Ranjan K. Barman, H. Lalchungnunga, Omkar Singh, MacLean P. Nasrallah, Eric A. Stone, Kenneth Aldape, Eytan Ruppin.
+[Prediction of DNA methylation-based tumor types from histopathology in central nervous system tumors with deep learning](https://www.nature.com/articles/s41591-024-02995-8),
+Nature Medicine (2024).
+
+
+**23:** <span style="color:green">Danh-Tai Hoang</span>, Gal Dinstag, Eldad D. Shulman, Leandro C. Hermida, Doreen S. Ben-Zvi, Efrat Elis, Katherine Caley, Stephen-John Sammut, Sanju Sinha, Neelam Sinha, Christopher H. Dampier, Chani Stossel, Tejas Patil, Arun Rajan, Wiem Lassoued, Julius Strauss, Shania Bailey, Clint Allen, Jason Redman, Tuvik Beker, Peng Jiang, Talia Golan, Scott Wilkinson, Adam G. Sowalsky, Sharon R. Pine, Carlos Caldas, James L. Gulley, Kenneth Aldape, Ranit Aharonov, Eric A. Stone, Eytan Ruppin.
+[A deep-learning framework to predict cancer treatment response from histopathology images through imputed transcriptomics](https://www.nature.com/articles/s43018-024-00793-2),
+Nature Cancer (2024).
 
 
 **22:** Gal Dinstag, Eldad D Shulman, Efrat Elis, Doreen S Ben-Zvi, Omer Tirosh, Eden Maimon, Isaac Meilijson, Emmanuel Elalouf, Eyal Schiff, <span style="color:green">Danh-Tai Hoang</span>, Sanju Sinha, Nishanth Ulhas Nair, Joo Sang Lee, Alejandro A Schäffer, Ze’ev Ronai, Dejan Juric, Andrea B Apolo, William L Dahut, Stanley Lipkowitz, Raanan Berger, Razelle Kurzrock, Antonios Papanicolau-Sengos, Fatima Karzai, Mark R Gilbert, Kenneth Aldape, Padma S Rajagopal, Tuvik Beker, Eytan Ruppin, Ranit Aharonov,
