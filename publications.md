@@ -12,7 +12,7 @@ BioRxiv (2025).
 
 
 **26:** Eldad D. Shulman, Emma M. Campagnolo, Roshan Lodha, Amos Stemmer, Thomas Cantore, Beibei Ru, Tian-Gen Chang, Sumona Biswas, Dhruba S. Rahman, Andrew Wang, Rohit Paul, Sarath Kalisetty, Tom Hu, Maclean Nasrallah, Sheila Rajagopal, Stephen-John Sammut, Stanley Lipkowitz, Peng Jiang, Carlos Caldas, Simon Knott, <span style="color:green">Danh-Tai Hoang</span>, Kenneth Aldape, Eytan Ruppin. 
-[AI-Driven Spatial Transcriptomics Unlocks Large-Scale Breast Cancer Biomarker Discovery from Histopathology](https://www.biorxiv.org/content/10.1101/2024.10.16.618609v1)
+[AI-Driven Spatial Transcriptomics Unlocks Large-Scale Breast Cancer Biomarker Discovery from Histopathology](https://www.biorxiv.org/content/10.1101/2024.10.16.618609v1),
 BioRxiv (2025).
 
 

@@ -38,7 +38,6 @@ Nature Cancer (2024).
 
 2024.07.03: [DeepPT on Morung Express: New AI model to boost patient response to cancer therapy](https://www.morungexpress.com/new-ai-model-to-boost-patient-response-to-cancer-therapy).
 
-
-2024.07.07: [DeepPT on Nguoi Lao Dong: ](https://nld.com.vn/cong-cu-ai-moi-nang-cao-chat-luong-dieu-tri-ung-thu-196240706205631014.htm).
+2024.07.07: [DeepPT on Người Lao Động: Công cụ mới AI nâng cao chất lượng điều trị ung thư ](https://nld.com.vn/cong-cu-ai-moi-nang-cao-chat-luong-dieu-tri-ung-thu-196240706205631014.htm).
 
 2024.07.03: [DeepPT on NDTV: New AI Model To Boost Patient Response To Cancer Therapy](https://www.ndtv.com/artificial-intelligence/ai-cancer-cancer-therapy-new-ai-model-to-boost-patient-response-to-cancer-therapy-6026172).
