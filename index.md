@@ -26,6 +26,8 @@ Nature Cancer (2024).
 
 2024.05.21: [DEPLOY on ABC news: Australian National University researchers develop AI tool to classify brain tumours quicker and more accurately](https://www.abc.net.au/news/2024-05-22/act-anu-artificial-intelligence-classify-brain-tumours-quicker/103876090).
 
+2024.06.10: [DEPLOY on Study Australia (Australian Government): New AI tool to help beat brain tumours](https://www.studyaustralia.gov.au/en/why-australia/world-leading-research/new-ai-tool-to-help-beat-brain-tumours).
+
 2024.05.20: [DEPLOY on VoA: Researchers use artificial intelligence to classify brain tumors](https://www.voanews.com/a/researchers-use-artificial-intelligence-to-classify-brain-tumors/7619029.html).
 
 2024.05.17: [DEPLOY on Neuroscience: AI Tool Speeds Up Brain Tumor Classification](https://neurosciencenews.com/ai-brain-cancer-26133/).

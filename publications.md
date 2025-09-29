@@ -6,8 +6,18 @@ title: Publications
 
 #### ISI Articles
 
+
+**30:** Sumit Mukherjee, Sumeet Patiyal, Lipika R. Pal, Tian-Gen Chang, Sumona Biswas, Saugato Rahman Dhruba, Amos Stemmer, Arashdeep Singh, Abbas Yousefi-Rad, Tien-Hua Chen, Binbin Wang, Denis Marino, Wonwoo Shon, Yuan Yuan, Mark Faries, Omid Hamid, Karen Reckamp, Barliz Waissengrin, Beatriz Ornelas, Pen-Yuan Chu, Salah Boudjadi, Lisa Ley, Dilara Akbulut, Nourhan El. Ahmar, Sabina Signoretti, David A. Braun, Hyunjeong Joo, Hyungsoo Kim, Arsen Osipov, Robert A. Figlin, Jair Bar, Iris Barshack, Chi-Ping Day, Karine Sargsyan, Andrea B Apolo, Kenneth Aldape, Muh-Hwa Yang, Michael B Atkins, Ze’ev A. Ronai^, <span style="color:green">Danh-Tai Hoang^</span>, Eytan Ruppin^. [Pan-cancer prediction of tumor immune activation and response to immune checkpoint blockade from tumor transcriptomics and histopathology](https://www.biorxiv.org/content/10.1101/2025.06.27.661875) (^corresponding authors), BioRxiv (2025).
+
+
+**29:** Ranjan Kumar Barman, Saugato Rahman Dhruba, <span style="color:green">Danh-Tai Hoang</span>, Eldad D. Shulman, Emma M. Campagnolo, Andy T. Wang, Stephanie A. Harmon, Tom C. Hu, Antonios Papanicolau-Sengos, MacLean P. Nasrallah, Kenneth D. Aldape, Eytan Ruppin. [Pathologist-interpretable breast cancer subtyping and stratification from AI-inferred nuclear features](https://www.biorxiv.org/content/10.1101/2025.09.04.674077), BioRxiv (2025).
+
+
+**28:** H. Lalchungnunga, Christopher Dampier, Omkar Singh, <span style="color:green">Danh-Tai Hoang</span>, Eldad D Shulman, Zied Abdullaev, Bochong Li, Zhirui Luo, Zhichao Wu, Thomas Pearce, Daniel F Marker, Kathleen McCortney, Craig Horbinski, Calixto-Hope G. Lucas, Patrick J. Cimino, MacLean P. Nasrallah, Martha Quezado, Hye-Jung Chung, Leeor Yefet, Gelareh Zadeh, Sebastian Brandner, Eytan Ruppin, Kenneth Aldape, [Neuropath-AI classifies central nervous system tumors from histopathology slides and improves human pathologist diagnostic performance], under review in The Lancet Oncology (2025).
+
+
 **27:** <span style="color:green">Danh-Tai Hoang</span>, Eldad D. Shulman, Saugato Rahman Dhruba, Nishanth Ulhas Nair, Ranjan K. Barman, H. Lalchungnunga, Omkar Singh, MacLean P. Nasrallah, Eric A. Stone, Kenneth Aldape, Eytan Ruppin.
-[Path2Omics: Enhanced transcriptomic and methylation prediction accuracy from tumor histopathology](https://www.biorxiv.org/content/10.1101/2025.02.26.640189v1),
+[Path2Omics: Enhanced transcriptomic and methylation prediction accuracy from tumor histopathology](https://www.biorxiv.org/content/10.1101/2025.02.26.640189),
 BioRxiv (2025).
 
 
