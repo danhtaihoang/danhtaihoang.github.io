@@ -8,9 +8,9 @@ title: Welcome to Dr. Danh-Tai Hoang's personal website!
 
 ## Selected Publications
 
-3. <span style="color:green">Danh-Tai Hoang</span>, Eldad D. Shulman, Saugato Rahman Dhruba, Nishanth Ulhas Nair, Ranjan K. Barman, H. Lalchungnunga, Omkar Singh, MacLean P. Nasrallah, Eric A. Stone, Kenneth Aldape, Eytan Ruppin.
-[Path2Omics: Enhanced transcriptomic and methylation prediction accuracy from tumor histopathology](https://www.biorxiv.org/content/10.1101/2025.02.26.640189v1),
-BioRxiv (2025).
+3. <span style="color:green">Danh-Tai Hoang</span>, Eldad D Shulman, Saugato Rahman Dhruba, Nishanth Ulhas Nair, Ranjan Kumar Barman, Thomas Cantore, Sumona Biswas, H Lalchungnunga, Omkar Singh, Youngmin Chung, Joo Sang Lee, MacLean P Nasrallah, Eric A Stone, Kenneth Aldape, Eytan Ruppin,
+[Path2Omics Enhances Transcriptomic and Methylation Prediction Accuracy from Tumor Histopathology](https://doi.org/10.1158/0008-5472.CAN-25-4350),
+Cancer Research (2025).
 
 2. <span style="color:green">Danh-Tai Hoang</span>, Eldad D. Shulman, Rust Turakulov, Zied Abdullaev, Omkar Singh, Emma M. Campagnolo, H. Lalchungnunga, Eric A. Stone,
 MacLean P. Nasrallah, Eytan Ruppin, Kenneth Aldape.
