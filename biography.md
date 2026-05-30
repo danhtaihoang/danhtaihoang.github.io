@@ -9,12 +9,12 @@ His research focuses on developing novel AI frameworks for personalized cancer m
 
 Looking ahead, his work aims to develop models capable of predicting proteomics/transcriptomics at the single-cell/spot level from pathology slides. These efforts are directed toward identifying spatially resolved biomarkers for improving predictions of patient survival and treatment response.
 
-Prior to joining Cedars-Sinai, he served as a Staff Scientist at at the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory), [National Cancer Institute (NCI)](https://www.cancer.gov/), [National Institutes of Health (NIH, USA)](https://www.nih.gov/), and a Research Fellow (Academic Staff Level B) at the [Biological Data Science Institute (BDSI)](https://bdsi.anu.edu.au/), [Australian National University (ANU)](https://www.anu.edu.au/). He received a PhD degree in Theoretical Physics from [CY Cergy Paris University (France)](https://www.cyu.fr/en).
+Prior to joining Cedars-Sinai, he served as a Staff Scientist at the [Cancer Data Science Laboratory (CDSL)](https://ccr.cancer.gov/cancer-data-science-laboratory), [National Cancer Institute (NCI)](https://www.cancer.gov/), [National Institutes of Health (NIH, USA)](https://www.nih.gov/), and a Research Fellow (Academic Staff Level B) at the [Biological Data Science Institute (BDSI)](https://bdsi.anu.edu.au/), [Australian National University (ANU)](https://www.anu.edu.au/). He received a PhD degree in Theoretical Physics from [CY Cergy Paris University (France)](https://www.cyu.fr/en).
 
 
-** Research Focus
+***** Research Focus ****
 - Digital Pathology
-- Spatial Omics
+- Multimodal Deep Learning
 - Cancer Immunology and Immunotherapy
 - Personalized Cancer Medicine
-- Multimodal Deep Learning
+- Spatial Omics
