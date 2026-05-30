@@ -8,6 +8,8 @@ title: Welcome to Dr. Danh-Tai Hoang's personal website!
 
 ## Selected Publications
 
+4. <span style="color:green">Danh-Tai Hoang</span>, Tian-Gen Chang, Cristina R. Ferrone, Ze'ev A. Ronai, Eytan Ruppin. [AI-driven pathology and blood-based biomarkers: A golden opportunity to democratize precision oncology](https://aacrjournals.org/cancerdiscovery/article/16/5/852/784384). Cancer Discovery (2026).
+
 3. <span style="color:green">Danh-Tai Hoang</span>, Eldad D Shulman, Saugato Rahman Dhruba, Nishanth Ulhas Nair, Ranjan Kumar Barman, Thomas Cantore, Sumona Biswas, H Lalchungnunga, Omkar Singh, Youngmin Chung, Joo Sang Lee, MacLean P Nasrallah, Eric A Stone, Kenneth Aldape, Eytan Ruppin,
 [Path2Omics Enhances Transcriptomic and Methylation Prediction Accuracy from Tumor Histopathology](https://doi.org/10.1158/0008-5472.CAN-25-4350),
 Cancer Research (2025).
